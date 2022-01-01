@@ -1,0 +1,23 @@
+IDEA #1) Allergenie: An allergy app that uses google maps and user-specified filters to display the appropriate allergy friendly restaurants within a certain radius.
+Pros: Smaller scope than a social media app in terms of difficulty and competition
+Con: App called "AllergyEats" already exists that does something similar but not quite the same.
+
+IDEA #2) Size Me: A clothing app that uses photoscanning to help the user find the right fitting clothes on popular retailers. Also displays the appropriate size regardless of potential size variations between brands such as Nike and New Balance
+Pros: Size variations between brands may lead to people buying the wrong items and we can fix that. 
+Con: People would have old clothes to figure out their size and the measurements provided by our app may malfunction.
+
+IDEA #3) Break it down: App that compiles a variety of career related statistics (salaries, % job growth, education needed, job openings, more) all in one easy to access place instead of needing to jump between websites.
+Pros: High Schoolers and Early College Students may be unsure of what careers they may be interested in and we can help
+Con: All the information is relatively easy to access on its own.
+
+IDEA #4) Population Tracker: Track a current world crisis and display the related data in a digestible format, along with resources to learn more or help
+Pros: If we can apply it to something good, we can 1) actually become super successful (like the people who did covid trackers at the beginning of the pandemic) and 2)actually make a difference
+Con: Requires perfect timing if trying to apply it to something thats happening currently. For example, the people who were successful in the covid tracker hopped on at the very beginning of the pandemic.
+
+IDEA #5) What Happnened?: A history app that displays significant events from a location based on the specified year. Kind of like an encyclopedia that history buffs can use to learn cool facts about their city or other cities.
+Pros: Hopefully unique (need to check existing apps, same for all the ideas) and it sounds kind of simple
+Con: Niche and unneccessary, not easily monetizable
+
+IDEA #6) Find your spot: An app that displays the best fishing locations on a map and users can upvote to agree with the spot. Also can specify the kinds of fish that can be caught at the spot.
+Pros: A social media app thats super niche so there probably wouldn't be any competition. Maybe just make it a fishing based social media entirely lol
+Con: Super Niche and even if people start to use it, do people who fish actually want to give away their spot?
