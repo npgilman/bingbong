@@ -1,2 +1,0 @@
-Making this exclusively for testing.
-Will delete when I get webhook to work.
